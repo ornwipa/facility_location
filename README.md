@@ -5,9 +5,9 @@ According to the Northwestern University Process Optimization Open Textbook:
 
 Given a set of customers and set of locations to build distribution centers (i.e., warehouses), the task here is to decide where to build distribution centers, and from which distribution goods will be shipped to which customers.
 
-There are fixed costs associated with the building of each distribution center as well as transportation costs from a certain distribution center to a certain customer.
+This problem considers fixed costs associated with the construcation and/or operation of each distribution center as well as transportation costs from a certain distribution center to a certain customer.
 
-In this case, there is no capacity limit for each distribution; that is, uncapacitated facility location problem.
+In this specific case, there is no capacity limit for each distribution center; that is, uncapacitated facility location problem.
 
 ## Requirement
 
